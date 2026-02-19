@@ -1,6 +1,6 @@
 # itch.io Scraper
 
-A lightweight web app that archives public projects from any itch.io creator — metadata, cover art, and screenshots — into a downloadable ZIP.
+A lightweight web app that archives public projects from any itch.io creator, including metadata, cover art, and screenshots, into a downloadable ZIP.
 
 ## Quick Start (Docker)
 
